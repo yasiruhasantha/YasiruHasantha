@@ -1,16 +1,15 @@
-# Hi there, I'm Yasiru Hasantha 👋 
+# Hi there, I'm Yasiru Hasantha 👋
 
-
-### Connect with me:
-
-[Discord](https://discord.com/channels/@me/898427344799281162)
-&nbsp;&nbsp;
-
-<br />
+I'm a developer from Sri Lanka 🇱🇰 who enjoys building cool things with code.
 
 ---
 
+## 📫 Connect with Me
 
-  <summary>:zap: GitHub Stats</summary>
+- **GitHub:** [yasiruhasantha](https://github.com/yasiruhasantha)  
+- **Twitter / X:** [@yasiruhasantha](https://twitter.com/yasiruhasantha)  
+- *(More coming soon)*
 
- <img align="left" alt="yasiru's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=YasiruHasantha&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+---
+
+Thanks for visiting! 😊
