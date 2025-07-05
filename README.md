@@ -7,8 +7,8 @@ I'm a developer from Sri Lanka 🇱🇰 who enjoys building cool things with cod
 ## 📫 Connect with Me
 
 - **GitHub:** [yasiruhasantha](https://github.com/yasiruhasantha)  
-- **Twitter / X:** [@yasiruhasantha](https://twitter.com/yasiruhasantha)  
-- *(More coming soon)*
+- **X:** [@yasiruH_](https://x.com/yasiruH_)  
+- **Linkedin:** [yasiruhasantha](https://www.linkedin.com/in/yasiruhasantha)
 
 ---
 
