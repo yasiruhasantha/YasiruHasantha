@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Yasiru Hasantha 👋</h1>
 
 <p align="center">
-  Developer from Sri Lanka 🇱🇰 — I build tools that help people focus and get things done.
+  Developer from Sri Lanka 🇱🇰
 </p>
 
 <p align="center">
