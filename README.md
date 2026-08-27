@@ -12,21 +12,4 @@
 
 ---
 
-## 📊 GitHub stats
-
-<p align="center">
-  <img alt="Profile details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yasiruhasantha&theme=tokyonight">
-</p>
-
-<p align="center">
-  <img height="200" alt="Most used languages" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yasiruhasantha&theme=tokyonight">
-  <img height="200" alt="Commits per language" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yasiruhasantha&theme=tokyonight">
-</p>
-
-<p align="center">
-  <img alt="Streak" src="https://streak-stats.demolab.com?user=yasiruhasantha&hide_border=true&theme=tokyonight">
-</p>
-
----
-
 <p align="center">Thanks for stopping by — feel free to say hi 😊</p>
